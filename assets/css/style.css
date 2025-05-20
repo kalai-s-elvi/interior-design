@@ -1,0 +1,163 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+  img{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    width: 100%;
+    height: 50%;
+   float: left;
+   opacity: 100%;
+   flex-wrap: wrap;
+   align-items: center;
+    border: none;
+}
+.navbar-brand{
+align-content: center;
+color: azure;
+}
+.frame img{
+    margin: 10px;
+    margin: 10px;
+    size: 20px;
+}
+.content{
+    margin-top: 200px;
+    margin-left: 400px;
+}
+.navbar{
+    width: 791px;
+    height: 40px;
+}    
+.navbar{
+    display: inline;
+   
+    padding: 0px;
+}
+body{
+  background-color:rgb(26, 6, 6) ;
+}
+.card-text h1{
+    letter-spacing: 3%;
+    margin: 100px;
+    text-size-adjust: 12px;
+    text-align: center;
+    font-size:3rem;
+    color: rgb(233, 233, 180); 
+    font-style: normal;
+    font-weight: lighter;
+    line-height: 161.1%;
+    
+}
+hr{
+    font-weight: bold;
+    color: white;
+    margin-top: 30px;
+    margin-left: 1px;
+    margin-right: 1px;
+}
+.server h1{
+    margin-left: 50px;
+    color:rgb(233, 183, 165);
+margin-right: 60%;
+font-style: normal;
+ font-family: serif;
+    font-weight: lighter;
+    font-size:4.5em;
+    letter-spacing: 3%;
+}
+.one{
+    height: 100%;
+    margin-right: 50%;
+    width: 100%;
+}
+.decor h1{
+   font-weight: lighter;
+   font-style: normal;
+    color:rgb(233, 183, 165);
+    margin:30px;
+ font-size: 3.5em;
+    letter-spacing: 3%;
+}
+
+.two h1{
+    color: rgb(211, 188, 146);
+   text-align: center;
+   margin: 3%;
+    color:rgb(233, 183, 165);
+font-style: normal;
+    font-weight: lighter;
+    font-family: serif;
+    font-size:500%;
+    letter-spacing: 3%;
+}
+.elegance{
+width: 90%;
+margin-left: 5%;
+margin-bottom: 50%;
+}
+.review{
+    width: 100%;
+}
+.lines{
+    width: 50%;
+    margin-left:45% ;
+}
+.new{
+    width: 95%;
+    margin-left: 80px;
+
+}
+.check h1{
+
+      color:white;
+      text-align: center;
+      margin:5%;
+
+}
+.said{
+ align-items: center;
+ width: 50%;
+ margin-left: 25%;
+}
+
+.navbar ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    text-align: center;
+}
+header{
+    text-align: center;
+    margin-left: 43%;
+    font-size: 3rex;
+}
+.navbar li{
+    float: left;
+    font-size:large;
+}
+.navbar li a{
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+
+.navbar li:hover{
+    background-color:black
+}
+.social-icons {
+    font-size:1.5rem;
+     text-align: center;
+     margin-left:0 10px;
+     margin-top: 40px;
+     size: 100%;
+     justify-content: space-between;
+     color: rgb(245, 190, 190);
+    
+
+}
+.footer{
+    position: relative;
+}
